@@ -13,12 +13,9 @@
 <h1 align="center">Hi 👋, I'm Ian Chege</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">A graduat from Moringa, readyc  to start my first internship experience!</h3>
+<h3 align="center">A graduate from Moringa, readyc  to start my first internship experience!</h3>
 
 <br/>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrosseel" alt="jrosseel" /></a> </p>
-
 <!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
 <p align="left" style="float: left;"> 
   <!-- LinkedIn -->
